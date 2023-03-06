@@ -34,6 +34,8 @@ Space
 
 ### 1.3 Grabbable Objects
 
+Space
+
 ### 1.4 Sockets
 
 ### Challenge 1 - Architecture Review

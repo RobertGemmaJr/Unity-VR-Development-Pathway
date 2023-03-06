@@ -31,10 +31,12 @@ I included these, and the initial plane, inside an `Environment` parent folder.
 ### 1.2 VR Locomotion
 
 Space
+<!-- TODO -->
 
 ### 1.3 Grabbable Objects
 
 Space
+<!-- TODO -->
 
 ### 1.4 Sockets
 
